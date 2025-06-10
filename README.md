@@ -4,7 +4,7 @@ Este projeto realiza a **automatização do processo de cadastro de produtos** e
 
 ## 🛠 Tecnologias Utilizadas
 
-- Python 3
+- Python
 - pyautogui
 - pandas
 - time (biblioteca padrão)

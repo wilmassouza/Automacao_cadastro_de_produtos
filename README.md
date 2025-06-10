@@ -1,10 +1,27 @@
-﻿# Automacao_cadastro_de_produtos
+# Automatização de Cadastro de Produtos
 
- Imagine que você tenha produtos, preços ou qualquer tipo de informação que precisa cadastrar em um sistema.
-Agora imagine que você tem 500 informações, seria um tanto trabalhoso ter que fazer tudo isso de forma manual não é mesmo?
-Você perderia até alguns dias de trabalho fazendo esse processo. 
+Este projeto realiza a **automatização do processo de cadastro de produtos** em um sistema web utilizando Python e a biblioteca `pyautogui`. A automação inclui desde o login até o preenchimento automático dos campos com dados extraídos de uma planilha CSV.
 
-Nesse projeto eu automatizei esse processo utilizando Python.
+## 🛠 Tecnologias Utilizadas
+
+- Python 3
+- pyautogui
+- pandas
+- time (biblioteca padrão)
+
+## 🚀 Funcionalidades
+
+- Abertura automática do navegador.
+- Acesso ao sistema e login automatizado.
+- Leitura de dados de um arquivo `produtos.csv`.
+- Cadastro automático de produtos no sistema.
+
+## 📦 Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/seurepositorio.git
+   cd seurepositorio
 
 
  

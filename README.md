@@ -23,5 +23,5 @@ Este projeto realiza a **automatização do processo de cadastro de produtos** e
    git clone https://github.com/seuusuario/seurepositorio.git
    cd seurepositorio
 
-
+Instale as dependências:
  

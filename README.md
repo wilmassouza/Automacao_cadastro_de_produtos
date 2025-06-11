@@ -16,12 +16,5 @@ Este projeto realiza a **automatização do processo de cadastro de produtos** e
 - Leitura de dados de um arquivo `produtos.csv`.
 - Cadastro automático de produtos no sistema.
 
-## 📦 Instalação
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
-   cd seurepositorio
-
-Instale as dependências:
  

@@ -23,7 +23,7 @@ time.sleep(3)
 # Passo 2: Fazer login
 # preencher e-mail
 pyautogui.click(x=669, y=469)
-pyautogui.write("wilmasilv@hotmail.com")
+pyautogui.write("teste@gmail.com")
 
 # preencher a senha
 pyautogui.press("tab")
